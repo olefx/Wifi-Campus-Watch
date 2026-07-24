@@ -21,6 +21,7 @@ Entstanden ist dieses Open-Source-Projekt im Rahmen einer schulischen Projektarb
 
 ## ✨ Key Features
 
+
 * 📐 **3D-Visualisierung:** Anschauliche Darstellung von WLAN-Wellen, Signalreflexionen und Dämpfung im Raum.
 * 🎯 **Objektüberwachung:** Simulation von Signalveränderungen, wenn sich Personen oder Objekte im Raum bewegen.
 * 💡 **Bildungsfokus:** Macht komplexe Hochfrequenz- & Signalverarbeitungstheorie leicht verständlich.
@@ -33,6 +34,13 @@ Entstanden ist dieses Open-Source-Projekt im Rahmen einer schulischen Projektarb
 * **Engine / Framework:** *(z. B. Unity / Three.js / Godot)*
 * **Sprache:** *(z. B. C# / JavaScript / Python)*
 * **Visualisierung:** 3D Rendering
+
+
+
+<img width="1376" height="768" alt="WhatsApp Image 2026-07-24 at 21 13 29" src="https://github.com/user-attachments/assets/9319624b-114b-4a6c-85dc-24d59edae28c" />
+
+
+
 
 ---
 
