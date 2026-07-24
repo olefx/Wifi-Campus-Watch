@@ -40,4 +40,4 @@ Entstanden ist dieses Open-Source-Projekt im Rahmen einer schulischen Projektarb
 
 1. **Repository klonen:**
    ```bash
-   git clone [https://github.com/DEIN-NUTZERNAME/DEIN-REPOSITORY.git](https://github.com/DEIN-NUTZERNAME/DEIN-REPOSITORY.git)
+   git clone [https://github.com/olefx/Wifi-Campus-Watch.git](https://github.com/olefx/Wifi-Campus-Watch.git)
