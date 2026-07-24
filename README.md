@@ -29,6 +29,9 @@ Entstanden ist dieses Open-Source-Projekt im Rahmen einer schulischen Projektarb
 
 ---
 
+## ℹ️ Das Projekt befindet sich in der Bearbeitung in der Schule weshalb die Daten erst nach vollständigem Abschließen des Projekts hochgeladen werden.
+
+
 ## 🛠️ Tech Stack & Tools
 
 * **Engine / Framework:** *(z. B. Unity / Three.js / Godot)*
@@ -37,7 +40,8 @@ Entstanden ist dieses Open-Source-Projekt im Rahmen einer schulischen Projektarb
 
 
 
-<img width="1376" height="768" alt="WhatsApp Image 2026-07-24 at 21 13 29" src="https://github.com/user-attachments/assets/9319624b-114b-4a6c-85dc-24d59edae28c" />
+<img width="1376" height="768" alt="WhatsApp Image 2026-07-24 at 21 13 29" src="https://github.com/user-attachments/assets/6b075b85-131f-4fc0-baf8-f41245b2d889" />
+
 
 
 
